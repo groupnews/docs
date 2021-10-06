@@ -8,7 +8,7 @@ published: false
 ---
 # What Is GroupNews?
 
-GroupNews is a centralized news source for your group or organization. It helps people know what's going on elsewhere in the group. 
+GroupNews is a centralized news source for your group or organization. It empowers people across your group to know what's going on.
 
 ## Working in GroupNews
 
