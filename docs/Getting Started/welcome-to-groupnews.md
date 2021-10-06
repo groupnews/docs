@@ -1,7 +1,7 @@
 ---
 layout: default
 has_children: false
-title: Welcome To GroupNews
+title: What is GroupNews?
 nav_order: 1
 published: false
 
