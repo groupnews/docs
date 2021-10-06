@@ -2,8 +2,9 @@
 layout: default
 has_children: false
 title: What is GroupNews?
+parent: Getting Started
 nav_order: 2
-permalink: "what-is-groupnews"
+permalink: /getting-started/what-is-groupnews
 ---
 
 # What Is GroupNews?
