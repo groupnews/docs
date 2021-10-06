@@ -24,5 +24,6 @@ fields:
     required: false
   label: permalink
 pages:
+- docs/Getting Started/welcome-to-groupnews.md
 - docs/configuration/configuration.md
 - docs/navigation-structure.md
