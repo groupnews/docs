@@ -3,7 +3,7 @@ layout: default
 has_children: true
 title: Getting Started With GroupNews
 nav_order: 1
-permalink: getting-started
+permalink: index
 published: false
 
 ---
