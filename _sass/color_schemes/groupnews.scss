@@ -2,10 +2,9 @@
 // Typography
 //
 
-$body-font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-  Roboto, "Helvetica Neue", Arial, sans-serif;
+$body-font-family: "Addington", Georgia, serif;
 $mono-font-family: "SFMono-Regular", Menlo, Consolas, Monospace;
-$root-font-size: 16px; // Base font-size for rems
+$root-font-size: 18px; // Base font-size for rems
 $body-line-height: 1.4;
 $content-line-height: 1.6;
 $body-heading-line-height: 1.25;
@@ -15,18 +14,18 @@ $body-heading-line-height: 1.25;
 // `-sm` suffix is the size at the small (and above) media query
 //
 
-$font-size-1: 9px;
-$font-size-1-sm: 10px;
-$font-size-2: 11px; //h4 - uppercased!, h6 not uppercased, text-small
-$font-size-3: 12px; //h5
-$font-size-4: 14px;
-$font-size-5: 16px; //h3
-$font-size-6: 18px; //h2
-$font-size-7: 24px;
-$font-size-8: 32px; //h1
-$font-size-9: 36px;
-$font-size-10: 42px;
-$font-size-10-sm: 48px;
+$font-size-1: 0.625rem;
+$font-size-1-sm: 0.75rem;
+$font-size-2: 0.75rem; //h4 - uppercased!, h6 not uppercased, text-small
+$font-size-3: 0.8125rem; //h5
+$font-size-4: 0.875rem;
+$font-size-5: 1rem; //h3
+$font-size-6: 1.2rem; //h2
+$font-size-7: 1.5rem;
+$font-size-8: 1.8rem; //h1
+$font-size-9: 2.2rem;
+$font-size-10: 2.5rem;
+$font-size-10-sm: 2.2rem;
 
 //
 // Colors
@@ -163,3 +162,51 @@ $media-queries: (
   lg: $content-width + $nav-width,
   xl: 1400px,
 );
+
+@font-face {
+  font-family: "Addington";
+  src: url("/assets/fonts/AddingtonCF-Regular.woff2") format("woff2"),
+    url("/assets/fonts/AddingtonCF-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Addington";
+  src: url("/assets/fonts/AddingtonCF-RegularItalic.woff2") format("woff2"),
+    url("/assets/fonts/AddingtonCF-RegularItalic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Addington";
+  src: url("/assets/fonts/AddingtonCF-Medium.woff2") format("woff2"),
+    url("/assets/fonts/AddingtonCF-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Addington";
+  src: url("/assets/fonts/AddingtonCF-Bold.woff2") format("woff2"),
+    url("/assets/fonts/AddingtonCF-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Addington";
+  src: url("/assets/fonts/AddingtonCF-BoldItalic.woff2") format("woff2"),
+    url("/assets/fonts/AddingtonCF-BoldItalic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Addington";
+  src: url("/assets/fonts/AddingtonCF-ExtraBold.woff2") format("woff2"),
+    url("/assets/fonts/AddingtonCF-ExtraBold.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+}

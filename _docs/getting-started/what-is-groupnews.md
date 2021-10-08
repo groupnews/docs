@@ -4,7 +4,6 @@ has_children: false
 title: What is GroupNews?
 parent: Getting Started
 nav_order: 2
-permalink: /getting-started/what-is-groupnews
 ---
 
 # What Is GroupNews?
@@ -15,4 +14,4 @@ GroupNews is a centralized news source for your group or organization. It empowe
 
 ## Getting Started with GroupNews
 
-> Keep your group in the loop with GroupNews.
+_Keep your group in the loop with GroupNews._
