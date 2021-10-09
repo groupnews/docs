@@ -1,0 +1,19 @@
+{
+  "name": "GroupNews",
+  "short_name": "GroupNews",
+  "icons": [
+    {
+      "src": "/assets/images/groupnews-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/images/groupnews-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "theme_color": "#eee8e3",
+  "background_color": "#eee8e3",
+  "display": "standalone"
+}
