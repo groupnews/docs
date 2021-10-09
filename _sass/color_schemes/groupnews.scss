@@ -17,13 +17,13 @@ $body-heading-line-height: 1.25;
 // `-sm` suffix is the size at the small (and above) media query
 //
 
-$font-size-1: 0.625rem;
+$font-size-1: 0.75rem;
 $font-size-1-sm: 0.75rem;
 $font-size-2: 0.75rem; //h4 - uppercased!, h6 not uppercased, text-small
-$font-size-3: 0.8125rem; //h5
-$font-size-4: 0.875rem;
-$font-size-5: 1rem; //h3
-$font-size-6: 1.2rem; //h2
+$font-size-3: 0.875rem; //h5
+$font-size-4: 1rem;
+$font-size-5: 1.125rem; //h3
+$font-size-6: 1.25rem; //h2
 $font-size-7: 1.5rem;
 $font-size-8: 1.8rem; //h1
 $font-size-9: 2.2rem;
@@ -151,7 +151,7 @@ $nav-list-item-height-sm: $sp-8;
 $nav-list-expander-right: true;
 $content-width: 800px;
 $header-height: 60px;
-$search-results-width: $content-width - $nav-width;
+$search-results-width: $content-width;
 $transition-duration: 400ms;
 
 //
@@ -214,6 +214,19 @@ $media-queries: (
   font-style: normal;
 }
 
+::-webkit-input-placeholder {
+  color: $navy-light;
+}
+::-moz-placeholder {
+  color: $navy-light;
+}
+:-ms-input-placeholder {
+  color: $navy-light;
+}
+:-moz-placeholder {
+  color: $navy-light;
+}
+
 .btn {
   font-family: $sans-serif-font-family !important;
   font-size: 0.875em;
@@ -224,4 +237,8 @@ $media-queries: (
 
 .site-footer {
   display: none !important;
+}
+
+.search-input {
+  font-size: inherit !important;
 }
