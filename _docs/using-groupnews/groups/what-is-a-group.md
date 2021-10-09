@@ -6,8 +6,6 @@ parent: Groups
 grand_parent: Using GroupNews
 nav_order: 1
 published: true
-
-permalink: /using-groupnews/groups/what-is-a-group
 ---
 
 # What Is A Group?

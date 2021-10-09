@@ -14,4 +14,5 @@ GroupNews is a centralized news source for your group or organization. It empowe
 
 ## Getting Started with GroupNews
 
-_Keep your group in the loop with GroupNews._
+{: .fs-5 .my-6 .fw-300 .text-center }
+Keep your group in the loop with GroupNews.

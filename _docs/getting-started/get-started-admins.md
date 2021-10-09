@@ -6,7 +6,7 @@ parent: Getting Started
 nav_order: 3
 ---
 
-# Getting Started for Group Creators
+# Getting Started for Group Administrators
 
 A GroupNews Group is a single place for your group and its news. Looking for more information about creating or managing your new GroupNews Group? This guide is for you, and we’re glad you’re here!
 

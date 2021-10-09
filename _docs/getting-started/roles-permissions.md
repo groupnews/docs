@@ -13,12 +13,16 @@ All members of a Group have the ability to do the following, as long as they are
 - Read any published news content which they have subscriber access to.
 - Comment on any news story they can view.
 
+---
+
 ## Newsletter Authors
 
 Some Group members are designated as an author on one or more newsletters published by the Group. Newsletter authors can:
 
 - Draft stories or posts for the Group to read.
 - Submit draft stories for publication in any of the Group’s newsletters for they are authors.
+
+---
 
 ## Group Administrators
 
@@ -27,6 +31,8 @@ A Group must have at least one administrator. While it must have one, you can as
 - [Create new Newsletters](/using-groupnews/newsletters/create-a-newsletter) for the Group.
 - [Invite people](/using-groupnews/groups/invite-members) to join the group.
 - [Delete a Newsletter](/using-groupnews/newsletters/delete-a-newsletter) from the Group.
+
+---
 
 ## Group Owner
 

@@ -6,7 +6,7 @@ parent: Getting Started
 nav_order: 5
 ---
 
-# Getting Started for new GroupNews Users
+# Getting Started for New GroupNews Users
 
 A GroupNews Group is a single place for your group and its news. If you’ve recently joined one, this guide will help you get set up in GroupNews so you can get started. Before you dive in, make sure you’re able to sign in to your workspace.
 

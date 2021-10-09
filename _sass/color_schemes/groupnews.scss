@@ -3,6 +3,9 @@
 //
 
 $body-font-family: "Addington", Georgia, serif;
+$sans-serif-font-family: "GreycliffCFBold", -apple-system, BlinkMacSystemFont,
+  "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue",
+  sans-serif;
 $mono-font-family: "SFMono-Regular", Menlo, Consolas, Monospace;
 $root-font-size: 18px; // Base font-size for rems
 $body-line-height: 1.4;
@@ -85,7 +88,7 @@ $body-background-color: $paper-light;
 $sidebar-color: $white;
 $search-background-color: $white;
 $table-background-color: $white;
-$code-background-color: $navy;
+$code-background-color: $white;
 $feedback-color: darken($sidebar-color, 3%);
 
 $body-text-color: $navy;
@@ -94,7 +97,7 @@ $search-result-preview-color: $navy;
 $nav-child-link-color: $navy;
 $link-color: $green;
 $btn-primary-color: $green;
-$base-button-color: $navy;
+$base-button-color: $blue;
 
 //
 // Spacing
@@ -209,4 +212,16 @@ $media-queries: (
     url("/assets/fonts/AddingtonCF-ExtraBold.woff") format("woff");
   font-weight: 900;
   font-style: normal;
+}
+
+.btn {
+  font-family: $sans-serif-font-family !important;
+  font-size: 0.875em;
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+}
+
+.site-footer {
+  display: none !important;
 }
