@@ -23,6 +23,3 @@ fields:
   config:
     required: false
   label: permalink
-pages:
-- docs/getting-started/index.md
-- docs/reference/index.md
