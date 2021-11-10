@@ -14,4 +14,9 @@ GroupNews newsletters are automatically published on a regular schedule as Editi
 
 To set the publishing schedule for a newsletter:
 
-1.  
+1. Click on the drop-down menu next to your icon in the upper right hand corner
+2. Choose **Newsletters**
+3. Click the three dots on the right of your chosen newsletter
+4. Click **Publishing Schedule**
+5. Set your preferred schedule for the newsletter
+6. Click **Update Publishing Schedule**
