@@ -10,5 +10,5 @@ nav_order: "10"
 
 To sign out:
 
-1. Click on the drop-down menu next to your icon in the upper right hand corner.
-2. Choose "Sign Out". 
+1. Click on the drop-down menu next to your icon in the upper right hand corner
+2. Choose "Sign Out"
