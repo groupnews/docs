@@ -8,13 +8,13 @@ nav_order: "3"
 ---
 # Two Factor Authentication (2FA)
 
-(NOTE: THIS WAS STOLEN VERBATIM FROM THE SLACK WEBSITE)
+Two-factor Authentication is an extra layer of security which ensures that only you can access your GroupNews account, even if somebody else knows your password.
 
-For an added layer of security, turn on two-factor authentication (2FA) for your GroupNews account. If your password is compromised or stolen, you'll have peace of mind knowing that only you can sign in.
+When you sign into GroupNews with Two-factor Authentication (2FA) enabled, in addition to your password, you'll also be required to enter a one-time use code generated on a device you own. Most commonly, you would use an authenticator app on your phone to generate 2FA codes.
 
 ## How 2FA works:
 
-* **You’ll need access to your mobile phone when you sign in to Slack.**
+* **You’ll need access to your mobile phone when you sign in to GroupNews.**
 * You'll enter a verification code and your password each time you sign in.
 * You can choose to send your verification code by text message or from an authentication app.
 
