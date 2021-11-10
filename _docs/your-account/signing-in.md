@@ -11,7 +11,7 @@ nav_order: "1"
 To sign in to GroupNews:
 
 1. Go to www.groupnews.com
-2. Click "Sign In"
+2. Click **Sign In**
 3. Enter your email address and password
 4. If you want the system to remember your email address and password the next time you sign in, check the "Remember me" box.
-5. Click "Sign In" 
+5. Click **Sign In**
