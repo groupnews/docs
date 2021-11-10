@@ -22,22 +22,21 @@ When you sign into GroupNews with Two-factor Authentication (2FA) enabled, in ad
 
 Before you can set up 2FA on your account, you’ll need to download and install an authentication app on your device. GroupNews 2FA can be used with most Time-Based, One-Time Password (TOTP) applications. Here are a few options to get you started:
 
-* **iPhone:** [Google Authenticator](https://itunes.apple.com/us/app/google-authenticator/id388497605?mt=8), [Duo Mobile](http://guide.duosecurity.com/), [1Password](https://guides.agilebits.com/1password-ios/5/en/topic/setting-up-one-time-passwords), [Authy](https://itunes.apple.com/us/app/authy/id494168017?mt=8), [Microsoft Authenticator](https://app.adjust.com/h66ftb_42hbak?campaign=appstore_ios&fallback=https://itunes.apple.com/app/microsoft-authenticator/id983156458)
-* **Android:** [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en), [Duo Mobile](http://guide.duosecurity.com/), [1Password](https://support.1password.com/getting-started-android/), [Authy](https://play.google.com/store/apps/details?id=com.authy.authy&hl=en), [Microsoft Authenticator](https://app.adjust.com/h66ftb_42hbak?campaign=appstore_android&fallback=https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=den)
-* **Windows Phone:** [Duo Mobile](https://guide.duosecurity.com)
-
-**Note:** GroupNews doesn't support Universal 2nd Factor (U2F) yet.
+* If you don't have an authentication app, we recommend one of the following:
+  * **Microsoft Authenticator** ([iOS](https://apps.apple.com/app/id983156458), [Android](https://play.google.com/store/apps/details?id=com.azure.authenticator))
+  * **Authy** ([iOS](https://apps.apple.com/us/app/authy/id494168017), [Android](https://play.google.com/store/apps/details?id=com.authy.authy))
 
 ***
 
 ## Step 2: Turn on 2FA in GroupNews
 
-1. Sign in to the appropriate workspace, and visit your **Account** page at **(?)**
-2. Next to **Two-factor Authentication**, click **Expand**. Then, click **Set Up Two-Factor Authentication**.
-3. Enter your password, and click **Use an app** to retrieve authentication codes from the authentication app on your device.
-4. Add a new account. In most apps, you can do this by tapping the **+** icon.
-5. Scan the QR code by using your device's camera. If you prefer, you can choose to enter the code by hand.
-6. On Slack's 2FA configuration page, enter the 6-digit verification code that your authentication app generates.
-7. To finish, press **Verify Code**.
+1. Click on the drop-down menu next to your icon in the upper right hand corner
+2. Choose **Account Settings**.
+3. Click **Enable Two-Factor Authentication**
+4. Save or print your backup codes
+5. Use a two-factor authentication app on your phone to scan the barcode image
+6. After scanning the barcode image, the app will display a six-digit you must use to verify your trusted device. 
+7. Enter the code below and click **Verify**
+8. After scanning the barcode image, the app will display a six-digit you must use to verify your trusted device. Enter the code below and click **Verify**
 
 When you sign in to GroupNews, just open your authentication app and enter a code along with your password.
