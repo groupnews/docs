@@ -11,7 +11,7 @@ nav_order: "2"
 
 You may be a member of more than one Group. In that case, you have the ability to switch between your groups at any time. All of your groups appear as icons on the right side of your screen. Simply click on the icon to toggle between groups. 
 
-In addition: 
+In addition you can: 
 
 1. Click on the drop-down menu next to your icon in the upper right hand corner
 2. Choose **Groups**
