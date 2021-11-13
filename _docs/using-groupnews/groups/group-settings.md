@@ -27,6 +27,8 @@ To change the group name:
 5. Under the new name under **Group Name**
 6. Click **Rename**
 
+![](/assets/images/change-group-name.jpg)
+
 ## Group Avatar
 
 1. Click on the drop-down menu next to your icon in the upper right hand corner
@@ -35,6 +37,8 @@ To change the group name:
 4. Choose **Settings**
 5. Under **Group Icon**, click on **Upload New Photo**
 6. Browse for and select your chosen picture
+
+![](/assets/images/change-group-icon.jpg)
 
 ## Group Owner
 
