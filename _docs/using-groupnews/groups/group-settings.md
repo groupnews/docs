@@ -18,7 +18,7 @@ To manage your group settings:
    ![](/assets/images/three-dots.jpg)
 4. Choose **Settings**
 
-![](/assets/images/settings.jpg)
+   ![](/assets/images/settings.jpg)
 
 ## Group Name and Description
 
