@@ -14,7 +14,11 @@ To manage your group settings:
 1. Click on the drop-down menu next to your icon in the upper right hand corner
 2. Choose **Groups**
 3. Click the three dots on the right of your chosen group
+
+   ![](/assets/images/three-dots.jpg)
 4. Choose **Settings**
+
+![](/assets/images/settings.jpg)
 
 ## Group Name and Description
 
