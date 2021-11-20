@@ -18,5 +18,3 @@ To set the publishing schedule for a newsletter:
 2. Choose **Newsletters**
 3. Click the three dots on the right of your chosen newsletter
 4. Click **Publishing Schedule**
-5. Set your preferred schedule for the newsletter
-6. Click **Update Publishing Schedule**
