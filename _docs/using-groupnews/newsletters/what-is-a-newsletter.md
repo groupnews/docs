@@ -49,3 +49,5 @@ To change a newsletter's visibility settings:
 5. Scroll down to **Visibility** 
 6. Choose either **Private**, **Group**, or **World**
 7. Click **Update Visibility** 
+
+![](/assets/images/visibility.jpg)
