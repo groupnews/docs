@@ -9,11 +9,11 @@ nav_order: "1"
 ---
 # What Is A Newsletter?
 
-A Newsletter in GroupNews is a centralized source of relevant and valuable information for your group. Your group can have one newsletter, or it can have many.
+A **Newsletter** in GroupNews is a centralized source of relevant and valuable information for your group. Your group can have one newsletter, or it can have many.
 
 ## Editions
 
-An edition is a particular newsletter that is printed at one time.
+An **Edition** is a particular newsletter that is printed at one time.
 
 ## Publishing Schedule
 
@@ -46,4 +46,6 @@ To change a newsletter's visibility settings:
 2. Choose **Newsletters**
 3. Click the three dots on the right of your chosen newsletter
 4. Choose **Options**
-5. 
+5. Scroll down to **Visibility** 
+6. Choose either **Private**, **Group**, or **World**
+7. Click **Update Visibility** 
